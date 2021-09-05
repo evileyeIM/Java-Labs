@@ -41,7 +41,7 @@
       <recent name="com.mycompany.app" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AppTest1">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mycompany.app.App" />
       <module name="my-app" />
@@ -90,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest1" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTest1" />
         <item itemvalue="JUnit.AppTest1 (1)" />
         <item itemvalue="JAR Application.my-app-1.0-SNAPSHOT.jar" />
       </list>
